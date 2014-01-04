@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BannerMobileApp/BannerMobileApp.iml" filepath="$PROJECT_DIR$/BannerMobileApp/BannerMobileApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BannerMobileAppProject.iml" filepath="$PROJECT_DIR$/BannerMobileAppProject.iml" />
+    </modules>
+  </component>
+</project>
+
